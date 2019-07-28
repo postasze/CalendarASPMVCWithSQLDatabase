@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="CalendarDatabaseEntities" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="Appointment">
+    <Key>
+      <PropertyRef Name="AppointmentID" />
+    </Key>
+    <Property Name="AppointmentID" Type="Guid" Nullable="false" />
+    <Property Name="Title" Type="String" MaxLength="16" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="AppointmentDate" Type="DateTime" Nullable="false" Precision="0" />
+    <Property Name="StartTime" Type="Time" Nullable="false" Precision="7" />
+    <Property Name="EndTime" Type="Time" Nullable="false" Precision="7" />
+    <NavigationProperty Name="Attendances" Relationship="Self.FK_AttendanceForAppointment" FromRole="Appointment" ToRole="Attendance" />
+  </EntityType>
+  <EntityType Name="Attendance">
+    <Key>
+      <PropertyRef Name="AppointmentID" />
+      <PropertyRef Name="PersonID" />
+    </Key>
+    <Property Name="AppointmentID" Type="Guid" Nullable="false" />
+    <Property Name="PersonID" Type="Guid" Nullable="false" />
+    <Property Name="Accepted" Type="Boolean" Nullable="false" />
+    <NavigationProperty Name="Appointment" Relationship="Self.FK_AttendanceForAppointment" FromRole="Attendance" ToRole="Appointment" />
+    <NavigationProperty Name="Person" Relationship="Self.FK_AttendaceForPerson" FromRole="Attendance" ToRole="Person" />
+  </EntityType>
+  <EntityType Name="Person">
+    <Key>
+      <PropertyRef Name="PersonID" />
+    </Key>
+    <Property Name="PersonID" Type="Guid" Nullable="false" />
+    <Property Name="FirstName" Type="String" MaxLength="16" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="LastName" Type="String" MaxLength="16" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="UserID" Type="String" MaxLength="10" FixedLength="false" Unicode="true" Nullable="false" />
+    <NavigationProperty Name="Attendances" Relationship="Self.FK_AttendaceForPerson" FromRole="Person" ToRole="Attendance" />
+  </EntityType>
+  <Association Name="FK_AttendanceForAppointment">
+    <End Role="Appointment" Type="Self.Appointment" Multiplicity="1" />
+    <End Role="Attendance" Type="Self.Attendance" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Appointment">
+        <PropertyRef Name="AppointmentID" />
+      </Principal>
+      <Dependent Role="Attendance">
+        <PropertyRef Name="AppointmentID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_AttendaceForPerson">
+    <End Role="Person" Type="Self.Person" Multiplicity="1" />
+    <End Role="Attendance" Type="Self.Attendance" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Person">
+        <PropertyRef Name="PersonID" />
+      </Principal>
+      <Dependent Role="Attendance">
+        <PropertyRef Name="PersonID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="StorageContext" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Appointments" EntityType="Self.Appointment" />
+    <EntitySet Name="Attendances" EntityType="Self.Attendance" />
+    <EntitySet Name="People" EntityType="Self.Person" />
+    <AssociationSet Name="FK_AttendanceForAppointment" Association="Self.FK_AttendanceForAppointment">
+      <End Role="Appointment" EntitySet="Appointments" />
+      <End Role="Attendance" EntitySet="Attendances" />
+    </AssociationSet>
+    <AssociationSet Name="FK_AttendaceForPerson" Association="Self.FK_AttendaceForPerson">
+      <End Role="Person" EntitySet="People" />
+      <End Role="Attendance" EntitySet="Attendances" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

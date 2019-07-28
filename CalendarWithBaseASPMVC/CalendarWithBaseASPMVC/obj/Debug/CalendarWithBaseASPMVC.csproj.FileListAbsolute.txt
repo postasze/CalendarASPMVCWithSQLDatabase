@@ -1,0 +1,275 @@
+c:\users\pawel\documents\visual studio 2013\Projects\CalendarWithBaseASPMVC\CalendarWithBaseASPMVC\bin\CalendarWithBaseASPMVC.dll.config
+c:\users\pawel\documents\visual studio 2013\Projects\CalendarWithBaseASPMVC\CalendarWithBaseASPMVC\bin\CalendarWithBaseASPMVC.dll
+c:\users\pawel\documents\visual studio 2013\Projects\CalendarWithBaseASPMVC\CalendarWithBaseASPMVC\bin\CalendarWithBaseASPMVC.pdb
+c:\users\pawel\documents\visual studio 2013\Projects\CalendarWithBaseASPMVC\CalendarWithBaseASPMVC\bin\Antlr3.Runtime.dll
+c:\users\pawel\documents\visual studio 2013\Projects\CalendarWithBaseASPMVC\CalendarWithBaseASPMVC\bin\EntityFramework.dll
+c:\users\pawel\documents\visual studio 2013\Projects\CalendarWithBaseASPMVC\CalendarWithBaseASPMVC\bin\EntityFramework.SqlServer.dll
+c:\users\pawel\documents\visual studio 2013\Projects\CalendarWithBaseASPMVC\CalendarWithBaseASPMVC\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\pawel\documents\visual studio 2013\Projects\CalendarWithBaseASPMVC\CalendarWithBaseASPMVC\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\pawel\documents\visual studio 2013\Projects\CalendarWithBaseASPMVC\CalendarWithBaseASPMVC\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\pawel\documents\visual studio 2013\Projects\CalendarWithBaseASPMVC\CalendarWithBaseASPMVC\bin\Microsoft.Owin.dll
+c:\users\pawel\documents\visual studio 2013\Projects\CalendarWithBaseASPMVC\CalendarWithBaseASPMVC\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\pawel\documents\visual studio 2013\Projects\CalendarWithBaseASPMVC\CalendarWithBaseASPMVC\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\pawel\documents\visual studio 2013\Projects\CalendarWithBaseASPMVC\CalendarWithBaseASPMVC\bin\Microsoft.Owin.Security.dll
+c:\users\pawel\documents\visual studio 2013\Projects\CalendarWithBaseASPMVC\CalendarWithBaseASPMVC\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\pawel\documents\visual studio 2013\Projects\CalendarWithBaseASPMVC\CalendarWithBaseASPMVC\bin\Microsoft.Owin.Security.Google.dll
+c:\users\pawel\documents\visual studio 2013\Projects\CalendarWithBaseASPMVC\CalendarWithBaseASPMVC\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\pawel\documents\visual studio 2013\Projects\CalendarWithBaseASPMVC\CalendarWithBaseASPMVC\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\pawel\documents\visual studio 2013\Projects\CalendarWithBaseASPMVC\CalendarWithBaseASPMVC\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\pawel\documents\visual studio 2013\Projects\CalendarWithBaseASPMVC\CalendarWithBaseASPMVC\bin\Microsoft.Web.Infrastructure.dll
+c:\users\pawel\documents\visual studio 2013\Projects\CalendarWithBaseASPMVC\CalendarWithBaseASPMVC\bin\Newtonsoft.Json.dll
+c:\users\pawel\documents\visual studio 2013\Projects\CalendarWithBaseASPMVC\CalendarWithBaseASPMVC\bin\Owin.dll
+c:\users\pawel\documents\visual studio 2013\Projects\CalendarWithBaseASPMVC\CalendarWithBaseASPMVC\bin\System.Web.Helpers.dll
+c:\users\pawel\documents\visual studio 2013\Projects\CalendarWithBaseASPMVC\CalendarWithBaseASPMVC\bin\System.Web.Mvc.dll
+c:\users\pawel\documents\visual studio 2013\Projects\CalendarWithBaseASPMVC\CalendarWithBaseASPMVC\bin\System.Web.Optimization.dll
+c:\users\pawel\documents\visual studio 2013\Projects\CalendarWithBaseASPMVC\CalendarWithBaseASPMVC\bin\System.Web.Razor.dll
+c:\users\pawel\documents\visual studio 2013\Projects\CalendarWithBaseASPMVC\CalendarWithBaseASPMVC\bin\System.Web.WebPages.Deployment.dll
+c:\users\pawel\documents\visual studio 2013\Projects\CalendarWithBaseASPMVC\CalendarWithBaseASPMVC\bin\System.Web.WebPages.dll
+c:\users\pawel\documents\visual studio 2013\Projects\CalendarWithBaseASPMVC\CalendarWithBaseASPMVC\bin\System.Web.WebPages.Razor.dll
+c:\users\pawel\documents\visual studio 2013\Projects\CalendarWithBaseASPMVC\CalendarWithBaseASPMVC\bin\WebGrease.dll
+c:\users\pawel\documents\visual studio 2013\Projects\CalendarWithBaseASPMVC\CalendarWithBaseASPMVC\bin\System.Web.Helpers.xml
+c:\users\pawel\documents\visual studio 2013\Projects\CalendarWithBaseASPMVC\CalendarWithBaseASPMVC\bin\System.Web.Mvc.xml
+c:\users\pawel\documents\visual studio 2013\Projects\CalendarWithBaseASPMVC\CalendarWithBaseASPMVC\bin\System.Web.Optimization.xml
+c:\users\pawel\documents\visual studio 2013\Projects\CalendarWithBaseASPMVC\CalendarWithBaseASPMVC\bin\System.Web.Razor.xml
+c:\users\pawel\documents\visual studio 2013\Projects\CalendarWithBaseASPMVC\CalendarWithBaseASPMVC\bin\System.Web.WebPages.xml
+c:\users\pawel\documents\visual studio 2013\Projects\CalendarWithBaseASPMVC\CalendarWithBaseASPMVC\bin\System.Web.WebPages.Deployment.xml
+c:\users\pawel\documents\visual studio 2013\Projects\CalendarWithBaseASPMVC\CalendarWithBaseASPMVC\bin\System.Web.WebPages.Razor.xml
+c:\users\pawel\documents\visual studio 2013\Projects\CalendarWithBaseASPMVC\CalendarWithBaseASPMVC\bin\Newtonsoft.Json.xml
+c:\users\pawel\documents\visual studio 2013\Projects\CalendarWithBaseASPMVC\CalendarWithBaseASPMVC\bin\Antlr3.Runtime.pdb
+c:\users\pawel\documents\visual studio 2013\Projects\CalendarWithBaseASPMVC\CalendarWithBaseASPMVC\bin\EntityFramework.xml
+c:\users\pawel\documents\visual studio 2013\Projects\CalendarWithBaseASPMVC\CalendarWithBaseASPMVC\bin\EntityFramework.SqlServer.xml
+c:\users\pawel\documents\visual studio 2013\Projects\CalendarWithBaseASPMVC\CalendarWithBaseASPMVC\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\pawel\documents\visual studio 2013\Projects\CalendarWithBaseASPMVC\CalendarWithBaseASPMVC\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\pawel\documents\visual studio 2013\Projects\CalendarWithBaseASPMVC\CalendarWithBaseASPMVC\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\pawel\documents\visual studio 2013\Projects\CalendarWithBaseASPMVC\CalendarWithBaseASPMVC\bin\Microsoft.Owin.xml
+c:\users\pawel\documents\visual studio 2013\Projects\CalendarWithBaseASPMVC\CalendarWithBaseASPMVC\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\pawel\documents\visual studio 2013\Projects\CalendarWithBaseASPMVC\CalendarWithBaseASPMVC\bin\Microsoft.Owin.Security.xml
+c:\users\pawel\documents\visual studio 2013\Projects\CalendarWithBaseASPMVC\CalendarWithBaseASPMVC\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\pawel\documents\visual studio 2013\Projects\CalendarWithBaseASPMVC\CalendarWithBaseASPMVC\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\pawel\documents\visual studio 2013\Projects\CalendarWithBaseASPMVC\CalendarWithBaseASPMVC\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\pawel\documents\visual studio 2013\Projects\CalendarWithBaseASPMVC\CalendarWithBaseASPMVC\bin\Microsoft.Owin.Security.Google.xml
+c:\users\pawel\documents\visual studio 2013\Projects\CalendarWithBaseASPMVC\CalendarWithBaseASPMVC\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\pawel\documents\visual studio 2013\Projects\CalendarWithBaseASPMVC\CalendarWithBaseASPMVC\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\pawel\documents\visual studio 2013\Projects\CalendarWithBaseASPMVC\CalendarWithBaseASPMVC\obj\Debug\CalendarWithBaseASPMVC.csprojResolveAssemblyReference.cache
+c:\users\pawel\documents\visual studio 2013\Projects\CalendarWithBaseASPMVC\CalendarWithBaseASPMVC\obj\Debug\CalendarWithBaseASPMVC.dll
+c:\users\pawel\documents\visual studio 2013\Projects\CalendarWithBaseASPMVC\CalendarWithBaseASPMVC\obj\Debug\CalendarWithBaseASPMVC.pdb
+C:\Users\TEMP.LAB\Desktop\CalendarWithBaseASPMVCnowy\CalendarWithBaseASPMVC\CalendarWithBaseASPMVC\bin\CalendarWithBaseASPMVC.dll.config
+C:\Users\TEMP.LAB\Desktop\CalendarWithBaseASPMVCnowy\CalendarWithBaseASPMVC\CalendarWithBaseASPMVC\bin\CalendarWithBaseASPMVC.dll
+C:\Users\TEMP.LAB\Desktop\CalendarWithBaseASPMVCnowy\CalendarWithBaseASPMVC\CalendarWithBaseASPMVC\bin\CalendarWithBaseASPMVC.pdb
+C:\Users\TEMP.LAB\Desktop\CalendarWithBaseASPMVCnowy\CalendarWithBaseASPMVC\CalendarWithBaseASPMVC\bin\Antlr3.Runtime.dll
+C:\Users\TEMP.LAB\Desktop\CalendarWithBaseASPMVCnowy\CalendarWithBaseASPMVC\CalendarWithBaseASPMVC\bin\EntityFramework.dll
+C:\Users\TEMP.LAB\Desktop\CalendarWithBaseASPMVCnowy\CalendarWithBaseASPMVC\CalendarWithBaseASPMVC\bin\EntityFramework.SqlServer.dll
+C:\Users\TEMP.LAB\Desktop\CalendarWithBaseASPMVCnowy\CalendarWithBaseASPMVC\CalendarWithBaseASPMVC\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\TEMP.LAB\Desktop\CalendarWithBaseASPMVCnowy\CalendarWithBaseASPMVC\CalendarWithBaseASPMVC\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\TEMP.LAB\Desktop\CalendarWithBaseASPMVCnowy\CalendarWithBaseASPMVC\CalendarWithBaseASPMVC\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\TEMP.LAB\Desktop\CalendarWithBaseASPMVCnowy\CalendarWithBaseASPMVC\CalendarWithBaseASPMVC\bin\Microsoft.Owin.dll
+C:\Users\TEMP.LAB\Desktop\CalendarWithBaseASPMVCnowy\CalendarWithBaseASPMVC\CalendarWithBaseASPMVC\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\TEMP.LAB\Desktop\CalendarWithBaseASPMVCnowy\CalendarWithBaseASPMVC\CalendarWithBaseASPMVC\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\TEMP.LAB\Desktop\CalendarWithBaseASPMVCnowy\CalendarWithBaseASPMVC\CalendarWithBaseASPMVC\bin\Microsoft.Owin.Security.dll
+C:\Users\TEMP.LAB\Desktop\CalendarWithBaseASPMVCnowy\CalendarWithBaseASPMVC\CalendarWithBaseASPMVC\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\TEMP.LAB\Desktop\CalendarWithBaseASPMVCnowy\CalendarWithBaseASPMVC\CalendarWithBaseASPMVC\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\TEMP.LAB\Desktop\CalendarWithBaseASPMVCnowy\CalendarWithBaseASPMVC\CalendarWithBaseASPMVC\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\TEMP.LAB\Desktop\CalendarWithBaseASPMVCnowy\CalendarWithBaseASPMVC\CalendarWithBaseASPMVC\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\TEMP.LAB\Desktop\CalendarWithBaseASPMVCnowy\CalendarWithBaseASPMVC\CalendarWithBaseASPMVC\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\TEMP.LAB\Desktop\CalendarWithBaseASPMVCnowy\CalendarWithBaseASPMVC\CalendarWithBaseASPMVC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\TEMP.LAB\Desktop\CalendarWithBaseASPMVCnowy\CalendarWithBaseASPMVC\CalendarWithBaseASPMVC\bin\Newtonsoft.Json.dll
+C:\Users\TEMP.LAB\Desktop\CalendarWithBaseASPMVCnowy\CalendarWithBaseASPMVC\CalendarWithBaseASPMVC\bin\Owin.dll
+C:\Users\TEMP.LAB\Desktop\CalendarWithBaseASPMVCnowy\CalendarWithBaseASPMVC\CalendarWithBaseASPMVC\bin\System.Web.Helpers.dll
+C:\Users\TEMP.LAB\Desktop\CalendarWithBaseASPMVCnowy\CalendarWithBaseASPMVC\CalendarWithBaseASPMVC\bin\System.Web.Mvc.dll
+C:\Users\TEMP.LAB\Desktop\CalendarWithBaseASPMVCnowy\CalendarWithBaseASPMVC\CalendarWithBaseASPMVC\bin\System.Web.Optimization.dll
+C:\Users\TEMP.LAB\Desktop\CalendarWithBaseASPMVCnowy\CalendarWithBaseASPMVC\CalendarWithBaseASPMVC\bin\System.Web.Razor.dll
+C:\Users\TEMP.LAB\Desktop\CalendarWithBaseASPMVCnowy\CalendarWithBaseASPMVC\CalendarWithBaseASPMVC\bin\System.Web.WebPages.Deployment.dll
+C:\Users\TEMP.LAB\Desktop\CalendarWithBaseASPMVCnowy\CalendarWithBaseASPMVC\CalendarWithBaseASPMVC\bin\System.Web.WebPages.dll
+C:\Users\TEMP.LAB\Desktop\CalendarWithBaseASPMVCnowy\CalendarWithBaseASPMVC\CalendarWithBaseASPMVC\bin\System.Web.WebPages.Razor.dll
+C:\Users\TEMP.LAB\Desktop\CalendarWithBaseASPMVCnowy\CalendarWithBaseASPMVC\CalendarWithBaseASPMVC\bin\WebGrease.dll
+C:\Users\TEMP.LAB\Desktop\CalendarWithBaseASPMVCnowy\CalendarWithBaseASPMVC\CalendarWithBaseASPMVC\bin\System.Web.Helpers.xml
+C:\Users\TEMP.LAB\Desktop\CalendarWithBaseASPMVCnowy\CalendarWithBaseASPMVC\CalendarWithBaseASPMVC\bin\System.Web.Mvc.xml
+C:\Users\TEMP.LAB\Desktop\CalendarWithBaseASPMVCnowy\CalendarWithBaseASPMVC\CalendarWithBaseASPMVC\bin\System.Web.Optimization.xml
+C:\Users\TEMP.LAB\Desktop\CalendarWithBaseASPMVCnowy\CalendarWithBaseASPMVC\CalendarWithBaseASPMVC\bin\System.Web.Razor.xml
+C:\Users\TEMP.LAB\Desktop\CalendarWithBaseASPMVCnowy\CalendarWithBaseASPMVC\CalendarWithBaseASPMVC\bin\System.Web.WebPages.xml
+C:\Users\TEMP.LAB\Desktop\CalendarWithBaseASPMVCnowy\CalendarWithBaseASPMVC\CalendarWithBaseASPMVC\bin\System.Web.WebPages.Deployment.xml
+C:\Users\TEMP.LAB\Desktop\CalendarWithBaseASPMVCnowy\CalendarWithBaseASPMVC\CalendarWithBaseASPMVC\bin\System.Web.WebPages.Razor.xml
+C:\Users\TEMP.LAB\Desktop\CalendarWithBaseASPMVCnowy\CalendarWithBaseASPMVC\CalendarWithBaseASPMVC\bin\Newtonsoft.Json.xml
+C:\Users\TEMP.LAB\Desktop\CalendarWithBaseASPMVCnowy\CalendarWithBaseASPMVC\CalendarWithBaseASPMVC\bin\Antlr3.Runtime.pdb
+C:\Users\TEMP.LAB\Desktop\CalendarWithBaseASPMVCnowy\CalendarWithBaseASPMVC\CalendarWithBaseASPMVC\bin\EntityFramework.xml
+C:\Users\TEMP.LAB\Desktop\CalendarWithBaseASPMVCnowy\CalendarWithBaseASPMVC\CalendarWithBaseASPMVC\bin\EntityFramework.SqlServer.xml
+C:\Users\TEMP.LAB\Desktop\CalendarWithBaseASPMVCnowy\CalendarWithBaseASPMVC\CalendarWithBaseASPMVC\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\TEMP.LAB\Desktop\CalendarWithBaseASPMVCnowy\CalendarWithBaseASPMVC\CalendarWithBaseASPMVC\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\TEMP.LAB\Desktop\CalendarWithBaseASPMVCnowy\CalendarWithBaseASPMVC\CalendarWithBaseASPMVC\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\TEMP.LAB\Desktop\CalendarWithBaseASPMVCnowy\CalendarWithBaseASPMVC\CalendarWithBaseASPMVC\bin\Microsoft.Owin.xml
+C:\Users\TEMP.LAB\Desktop\CalendarWithBaseASPMVCnowy\CalendarWithBaseASPMVC\CalendarWithBaseASPMVC\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\TEMP.LAB\Desktop\CalendarWithBaseASPMVCnowy\CalendarWithBaseASPMVC\CalendarWithBaseASPMVC\bin\Microsoft.Owin.Security.xml
+C:\Users\TEMP.LAB\Desktop\CalendarWithBaseASPMVCnowy\CalendarWithBaseASPMVC\CalendarWithBaseASPMVC\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\TEMP.LAB\Desktop\CalendarWithBaseASPMVCnowy\CalendarWithBaseASPMVC\CalendarWithBaseASPMVC\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\TEMP.LAB\Desktop\CalendarWithBaseASPMVCnowy\CalendarWithBaseASPMVC\CalendarWithBaseASPMVC\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\TEMP.LAB\Desktop\CalendarWithBaseASPMVCnowy\CalendarWithBaseASPMVC\CalendarWithBaseASPMVC\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\TEMP.LAB\Desktop\CalendarWithBaseASPMVCnowy\CalendarWithBaseASPMVC\CalendarWithBaseASPMVC\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\TEMP.LAB\Desktop\CalendarWithBaseASPMVCnowy\CalendarWithBaseASPMVC\CalendarWithBaseASPMVC\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\TEMP.LAB\Desktop\CalendarWithBaseASPMVCnowy\CalendarWithBaseASPMVC\CalendarWithBaseASPMVC\obj\Debug\CalendarWithBaseASPMVC.csprojResolveAssemblyReference.cache
+C:\Users\TEMP.LAB\Desktop\CalendarWithBaseASPMVCnowy\CalendarWithBaseASPMVC\CalendarWithBaseASPMVC\obj\Debug\CalendarWithBaseASPMVC.dll
+C:\Users\TEMP.LAB\Desktop\CalendarWithBaseASPMVCnowy\CalendarWithBaseASPMVC\CalendarWithBaseASPMVC\obj\Debug\CalendarWithBaseASPMVC.pdb
+C:\Users\TEMP\Desktop\CalendarWithBaseASPMVCnowy1\CalendarWithBaseASPMVCnowy\CalendarWithBaseASPMVC\CalendarWithBaseASPMVC\bin\CalendarWithBaseASPMVC.dll.config
+C:\Users\TEMP\Desktop\CalendarWithBaseASPMVCnowy1\CalendarWithBaseASPMVCnowy\CalendarWithBaseASPMVC\CalendarWithBaseASPMVC\bin\CalendarWithBaseASPMVC.dll
+C:\Users\TEMP\Desktop\CalendarWithBaseASPMVCnowy1\CalendarWithBaseASPMVCnowy\CalendarWithBaseASPMVC\CalendarWithBaseASPMVC\bin\CalendarWithBaseASPMVC.pdb
+C:\Users\TEMP\Desktop\CalendarWithBaseASPMVCnowy1\CalendarWithBaseASPMVCnowy\CalendarWithBaseASPMVC\CalendarWithBaseASPMVC\bin\Antlr3.Runtime.dll
+C:\Users\TEMP\Desktop\CalendarWithBaseASPMVCnowy1\CalendarWithBaseASPMVCnowy\CalendarWithBaseASPMVC\CalendarWithBaseASPMVC\bin\EntityFramework.dll
+C:\Users\TEMP\Desktop\CalendarWithBaseASPMVCnowy1\CalendarWithBaseASPMVCnowy\CalendarWithBaseASPMVC\CalendarWithBaseASPMVC\bin\EntityFramework.SqlServer.dll
+C:\Users\TEMP\Desktop\CalendarWithBaseASPMVCnowy1\CalendarWithBaseASPMVCnowy\CalendarWithBaseASPMVC\CalendarWithBaseASPMVC\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\TEMP\Desktop\CalendarWithBaseASPMVCnowy1\CalendarWithBaseASPMVCnowy\CalendarWithBaseASPMVC\CalendarWithBaseASPMVC\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\TEMP\Desktop\CalendarWithBaseASPMVCnowy1\CalendarWithBaseASPMVCnowy\CalendarWithBaseASPMVC\CalendarWithBaseASPMVC\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\TEMP\Desktop\CalendarWithBaseASPMVCnowy1\CalendarWithBaseASPMVCnowy\CalendarWithBaseASPMVC\CalendarWithBaseASPMVC\bin\Microsoft.Owin.dll
+C:\Users\TEMP\Desktop\CalendarWithBaseASPMVCnowy1\CalendarWithBaseASPMVCnowy\CalendarWithBaseASPMVC\CalendarWithBaseASPMVC\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\TEMP\Desktop\CalendarWithBaseASPMVCnowy1\CalendarWithBaseASPMVCnowy\CalendarWithBaseASPMVC\CalendarWithBaseASPMVC\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\TEMP\Desktop\CalendarWithBaseASPMVCnowy1\CalendarWithBaseASPMVCnowy\CalendarWithBaseASPMVC\CalendarWithBaseASPMVC\bin\Microsoft.Owin.Security.dll
+C:\Users\TEMP\Desktop\CalendarWithBaseASPMVCnowy1\CalendarWithBaseASPMVCnowy\CalendarWithBaseASPMVC\CalendarWithBaseASPMVC\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\TEMP\Desktop\CalendarWithBaseASPMVCnowy1\CalendarWithBaseASPMVCnowy\CalendarWithBaseASPMVC\CalendarWithBaseASPMVC\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\TEMP\Desktop\CalendarWithBaseASPMVCnowy1\CalendarWithBaseASPMVCnowy\CalendarWithBaseASPMVC\CalendarWithBaseASPMVC\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\TEMP\Desktop\CalendarWithBaseASPMVCnowy1\CalendarWithBaseASPMVCnowy\CalendarWithBaseASPMVC\CalendarWithBaseASPMVC\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\TEMP\Desktop\CalendarWithBaseASPMVCnowy1\CalendarWithBaseASPMVCnowy\CalendarWithBaseASPMVC\CalendarWithBaseASPMVC\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\TEMP\Desktop\CalendarWithBaseASPMVCnowy1\CalendarWithBaseASPMVCnowy\CalendarWithBaseASPMVC\CalendarWithBaseASPMVC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\TEMP\Desktop\CalendarWithBaseASPMVCnowy1\CalendarWithBaseASPMVCnowy\CalendarWithBaseASPMVC\CalendarWithBaseASPMVC\bin\Newtonsoft.Json.dll
+C:\Users\TEMP\Desktop\CalendarWithBaseASPMVCnowy1\CalendarWithBaseASPMVCnowy\CalendarWithBaseASPMVC\CalendarWithBaseASPMVC\bin\Owin.dll
+C:\Users\TEMP\Desktop\CalendarWithBaseASPMVCnowy1\CalendarWithBaseASPMVCnowy\CalendarWithBaseASPMVC\CalendarWithBaseASPMVC\bin\System.Web.Helpers.dll
+C:\Users\TEMP\Desktop\CalendarWithBaseASPMVCnowy1\CalendarWithBaseASPMVCnowy\CalendarWithBaseASPMVC\CalendarWithBaseASPMVC\bin\System.Web.Mvc.dll
+C:\Users\TEMP\Desktop\CalendarWithBaseASPMVCnowy1\CalendarWithBaseASPMVCnowy\CalendarWithBaseASPMVC\CalendarWithBaseASPMVC\bin\System.Web.Optimization.dll
+C:\Users\TEMP\Desktop\CalendarWithBaseASPMVCnowy1\CalendarWithBaseASPMVCnowy\CalendarWithBaseASPMVC\CalendarWithBaseASPMVC\bin\System.Web.Razor.dll
+C:\Users\TEMP\Desktop\CalendarWithBaseASPMVCnowy1\CalendarWithBaseASPMVCnowy\CalendarWithBaseASPMVC\CalendarWithBaseASPMVC\bin\System.Web.WebPages.Deployment.dll
+C:\Users\TEMP\Desktop\CalendarWithBaseASPMVCnowy1\CalendarWithBaseASPMVCnowy\CalendarWithBaseASPMVC\CalendarWithBaseASPMVC\bin\System.Web.WebPages.dll
+C:\Users\TEMP\Desktop\CalendarWithBaseASPMVCnowy1\CalendarWithBaseASPMVCnowy\CalendarWithBaseASPMVC\CalendarWithBaseASPMVC\bin\System.Web.WebPages.Razor.dll
+C:\Users\TEMP\Desktop\CalendarWithBaseASPMVCnowy1\CalendarWithBaseASPMVCnowy\CalendarWithBaseASPMVC\CalendarWithBaseASPMVC\bin\WebGrease.dll
+C:\Users\TEMP\Desktop\CalendarWithBaseASPMVCnowy1\CalendarWithBaseASPMVCnowy\CalendarWithBaseASPMVC\CalendarWithBaseASPMVC\bin\System.Web.Helpers.xml
+C:\Users\TEMP\Desktop\CalendarWithBaseASPMVCnowy1\CalendarWithBaseASPMVCnowy\CalendarWithBaseASPMVC\CalendarWithBaseASPMVC\bin\System.Web.Mvc.xml
+C:\Users\TEMP\Desktop\CalendarWithBaseASPMVCnowy1\CalendarWithBaseASPMVCnowy\CalendarWithBaseASPMVC\CalendarWithBaseASPMVC\bin\System.Web.Optimization.xml
+C:\Users\TEMP\Desktop\CalendarWithBaseASPMVCnowy1\CalendarWithBaseASPMVCnowy\CalendarWithBaseASPMVC\CalendarWithBaseASPMVC\bin\System.Web.Razor.xml
+C:\Users\TEMP\Desktop\CalendarWithBaseASPMVCnowy1\CalendarWithBaseASPMVCnowy\CalendarWithBaseASPMVC\CalendarWithBaseASPMVC\bin\System.Web.WebPages.xml
+C:\Users\TEMP\Desktop\CalendarWithBaseASPMVCnowy1\CalendarWithBaseASPMVCnowy\CalendarWithBaseASPMVC\CalendarWithBaseASPMVC\bin\System.Web.WebPages.Deployment.xml
+C:\Users\TEMP\Desktop\CalendarWithBaseASPMVCnowy1\CalendarWithBaseASPMVCnowy\CalendarWithBaseASPMVC\CalendarWithBaseASPMVC\bin\System.Web.WebPages.Razor.xml
+C:\Users\TEMP\Desktop\CalendarWithBaseASPMVCnowy1\CalendarWithBaseASPMVCnowy\CalendarWithBaseASPMVC\CalendarWithBaseASPMVC\bin\Newtonsoft.Json.xml
+C:\Users\TEMP\Desktop\CalendarWithBaseASPMVCnowy1\CalendarWithBaseASPMVCnowy\CalendarWithBaseASPMVC\CalendarWithBaseASPMVC\bin\Antlr3.Runtime.pdb
+C:\Users\TEMP\Desktop\CalendarWithBaseASPMVCnowy1\CalendarWithBaseASPMVCnowy\CalendarWithBaseASPMVC\CalendarWithBaseASPMVC\bin\EntityFramework.xml
+C:\Users\TEMP\Desktop\CalendarWithBaseASPMVCnowy1\CalendarWithBaseASPMVCnowy\CalendarWithBaseASPMVC\CalendarWithBaseASPMVC\bin\EntityFramework.SqlServer.xml
+C:\Users\TEMP\Desktop\CalendarWithBaseASPMVCnowy1\CalendarWithBaseASPMVCnowy\CalendarWithBaseASPMVC\CalendarWithBaseASPMVC\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\TEMP\Desktop\CalendarWithBaseASPMVCnowy1\CalendarWithBaseASPMVCnowy\CalendarWithBaseASPMVC\CalendarWithBaseASPMVC\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\TEMP\Desktop\CalendarWithBaseASPMVCnowy1\CalendarWithBaseASPMVCnowy\CalendarWithBaseASPMVC\CalendarWithBaseASPMVC\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\TEMP\Desktop\CalendarWithBaseASPMVCnowy1\CalendarWithBaseASPMVCnowy\CalendarWithBaseASPMVC\CalendarWithBaseASPMVC\bin\Microsoft.Owin.xml
+C:\Users\TEMP\Desktop\CalendarWithBaseASPMVCnowy1\CalendarWithBaseASPMVCnowy\CalendarWithBaseASPMVC\CalendarWithBaseASPMVC\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\TEMP\Desktop\CalendarWithBaseASPMVCnowy1\CalendarWithBaseASPMVCnowy\CalendarWithBaseASPMVC\CalendarWithBaseASPMVC\bin\Microsoft.Owin.Security.xml
+C:\Users\TEMP\Desktop\CalendarWithBaseASPMVCnowy1\CalendarWithBaseASPMVCnowy\CalendarWithBaseASPMVC\CalendarWithBaseASPMVC\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\TEMP\Desktop\CalendarWithBaseASPMVCnowy1\CalendarWithBaseASPMVCnowy\CalendarWithBaseASPMVC\CalendarWithBaseASPMVC\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\TEMP\Desktop\CalendarWithBaseASPMVCnowy1\CalendarWithBaseASPMVCnowy\CalendarWithBaseASPMVC\CalendarWithBaseASPMVC\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\TEMP\Desktop\CalendarWithBaseASPMVCnowy1\CalendarWithBaseASPMVCnowy\CalendarWithBaseASPMVC\CalendarWithBaseASPMVC\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\TEMP\Desktop\CalendarWithBaseASPMVCnowy1\CalendarWithBaseASPMVCnowy\CalendarWithBaseASPMVC\CalendarWithBaseASPMVC\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\TEMP\Desktop\CalendarWithBaseASPMVCnowy1\CalendarWithBaseASPMVCnowy\CalendarWithBaseASPMVC\CalendarWithBaseASPMVC\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\TEMP\Desktop\CalendarWithBaseASPMVCnowy1\CalendarWithBaseASPMVCnowy\CalendarWithBaseASPMVC\CalendarWithBaseASPMVC\obj\Debug\CalendarWithBaseASPMVC.csprojResolveAssemblyReference.cache
+C:\Users\TEMP\Desktop\CalendarWithBaseASPMVCnowy1\CalendarWithBaseASPMVCnowy\CalendarWithBaseASPMVC\CalendarWithBaseASPMVC\obj\Debug\CalendarWithBaseASPMVC.dll
+C:\Users\TEMP\Desktop\CalendarWithBaseASPMVCnowy1\CalendarWithBaseASPMVCnowy\CalendarWithBaseASPMVC\CalendarWithBaseASPMVC\obj\Debug\CalendarWithBaseASPMVC.pdb
+H:\NTR\CalendarWithBaseASPMVCnowy2\CalendarWithBaseASPMVCnowy1\CalendarWithBaseASPMVCnowy\CalendarWithBaseASPMVC\CalendarWithBaseASPMVC\bin\CalendarWithBaseASPMVC.dll.config
+H:\NTR\CalendarWithBaseASPMVCnowy2\CalendarWithBaseASPMVCnowy1\CalendarWithBaseASPMVCnowy\CalendarWithBaseASPMVC\CalendarWithBaseASPMVC\bin\CalendarWithBaseASPMVC.dll
+H:\NTR\CalendarWithBaseASPMVCnowy2\CalendarWithBaseASPMVCnowy1\CalendarWithBaseASPMVCnowy\CalendarWithBaseASPMVC\CalendarWithBaseASPMVC\bin\CalendarWithBaseASPMVC.pdb
+H:\NTR\CalendarWithBaseASPMVCnowy2\CalendarWithBaseASPMVCnowy1\CalendarWithBaseASPMVCnowy\CalendarWithBaseASPMVC\CalendarWithBaseASPMVC\bin\Antlr3.Runtime.dll
+H:\NTR\CalendarWithBaseASPMVCnowy2\CalendarWithBaseASPMVCnowy1\CalendarWithBaseASPMVCnowy\CalendarWithBaseASPMVC\CalendarWithBaseASPMVC\bin\EntityFramework.dll
+H:\NTR\CalendarWithBaseASPMVCnowy2\CalendarWithBaseASPMVCnowy1\CalendarWithBaseASPMVCnowy\CalendarWithBaseASPMVC\CalendarWithBaseASPMVC\bin\EntityFramework.SqlServer.dll
+H:\NTR\CalendarWithBaseASPMVCnowy2\CalendarWithBaseASPMVCnowy1\CalendarWithBaseASPMVCnowy\CalendarWithBaseASPMVC\CalendarWithBaseASPMVC\bin\Microsoft.AspNet.Identity.Core.dll
+H:\NTR\CalendarWithBaseASPMVCnowy2\CalendarWithBaseASPMVCnowy1\CalendarWithBaseASPMVCnowy\CalendarWithBaseASPMVC\CalendarWithBaseASPMVC\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+H:\NTR\CalendarWithBaseASPMVCnowy2\CalendarWithBaseASPMVCnowy1\CalendarWithBaseASPMVCnowy\CalendarWithBaseASPMVC\CalendarWithBaseASPMVC\bin\Microsoft.AspNet.Identity.Owin.dll
+H:\NTR\CalendarWithBaseASPMVCnowy2\CalendarWithBaseASPMVCnowy1\CalendarWithBaseASPMVCnowy\CalendarWithBaseASPMVC\CalendarWithBaseASPMVC\bin\Microsoft.Owin.dll
+H:\NTR\CalendarWithBaseASPMVCnowy2\CalendarWithBaseASPMVCnowy1\CalendarWithBaseASPMVCnowy\CalendarWithBaseASPMVC\CalendarWithBaseASPMVC\bin\Microsoft.Owin.Host.SystemWeb.dll
+H:\NTR\CalendarWithBaseASPMVCnowy2\CalendarWithBaseASPMVCnowy1\CalendarWithBaseASPMVCnowy\CalendarWithBaseASPMVC\CalendarWithBaseASPMVC\bin\Microsoft.Owin.Security.Cookies.dll
+H:\NTR\CalendarWithBaseASPMVCnowy2\CalendarWithBaseASPMVCnowy1\CalendarWithBaseASPMVCnowy\CalendarWithBaseASPMVC\CalendarWithBaseASPMVC\bin\Microsoft.Owin.Security.dll
+H:\NTR\CalendarWithBaseASPMVCnowy2\CalendarWithBaseASPMVCnowy1\CalendarWithBaseASPMVCnowy\CalendarWithBaseASPMVC\CalendarWithBaseASPMVC\bin\Microsoft.Owin.Security.Facebook.dll
+H:\NTR\CalendarWithBaseASPMVCnowy2\CalendarWithBaseASPMVCnowy1\CalendarWithBaseASPMVCnowy\CalendarWithBaseASPMVC\CalendarWithBaseASPMVC\bin\Microsoft.Owin.Security.Google.dll
+H:\NTR\CalendarWithBaseASPMVCnowy2\CalendarWithBaseASPMVCnowy1\CalendarWithBaseASPMVCnowy\CalendarWithBaseASPMVC\CalendarWithBaseASPMVC\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+H:\NTR\CalendarWithBaseASPMVCnowy2\CalendarWithBaseASPMVCnowy1\CalendarWithBaseASPMVCnowy\CalendarWithBaseASPMVC\CalendarWithBaseASPMVC\bin\Microsoft.Owin.Security.OAuth.dll
+H:\NTR\CalendarWithBaseASPMVCnowy2\CalendarWithBaseASPMVCnowy1\CalendarWithBaseASPMVCnowy\CalendarWithBaseASPMVC\CalendarWithBaseASPMVC\bin\Microsoft.Owin.Security.Twitter.dll
+H:\NTR\CalendarWithBaseASPMVCnowy2\CalendarWithBaseASPMVCnowy1\CalendarWithBaseASPMVCnowy\CalendarWithBaseASPMVC\CalendarWithBaseASPMVC\bin\Microsoft.Web.Infrastructure.dll
+H:\NTR\CalendarWithBaseASPMVCnowy2\CalendarWithBaseASPMVCnowy1\CalendarWithBaseASPMVCnowy\CalendarWithBaseASPMVC\CalendarWithBaseASPMVC\bin\Newtonsoft.Json.dll
+H:\NTR\CalendarWithBaseASPMVCnowy2\CalendarWithBaseASPMVCnowy1\CalendarWithBaseASPMVCnowy\CalendarWithBaseASPMVC\CalendarWithBaseASPMVC\bin\Owin.dll
+H:\NTR\CalendarWithBaseASPMVCnowy2\CalendarWithBaseASPMVCnowy1\CalendarWithBaseASPMVCnowy\CalendarWithBaseASPMVC\CalendarWithBaseASPMVC\bin\System.Web.Helpers.dll
+H:\NTR\CalendarWithBaseASPMVCnowy2\CalendarWithBaseASPMVCnowy1\CalendarWithBaseASPMVCnowy\CalendarWithBaseASPMVC\CalendarWithBaseASPMVC\bin\System.Web.Mvc.dll
+H:\NTR\CalendarWithBaseASPMVCnowy2\CalendarWithBaseASPMVCnowy1\CalendarWithBaseASPMVCnowy\CalendarWithBaseASPMVC\CalendarWithBaseASPMVC\bin\System.Web.Optimization.dll
+H:\NTR\CalendarWithBaseASPMVCnowy2\CalendarWithBaseASPMVCnowy1\CalendarWithBaseASPMVCnowy\CalendarWithBaseASPMVC\CalendarWithBaseASPMVC\bin\System.Web.Razor.dll
+H:\NTR\CalendarWithBaseASPMVCnowy2\CalendarWithBaseASPMVCnowy1\CalendarWithBaseASPMVCnowy\CalendarWithBaseASPMVC\CalendarWithBaseASPMVC\bin\System.Web.WebPages.Deployment.dll
+H:\NTR\CalendarWithBaseASPMVCnowy2\CalendarWithBaseASPMVCnowy1\CalendarWithBaseASPMVCnowy\CalendarWithBaseASPMVC\CalendarWithBaseASPMVC\bin\System.Web.WebPages.dll
+H:\NTR\CalendarWithBaseASPMVCnowy2\CalendarWithBaseASPMVCnowy1\CalendarWithBaseASPMVCnowy\CalendarWithBaseASPMVC\CalendarWithBaseASPMVC\bin\System.Web.WebPages.Razor.dll
+H:\NTR\CalendarWithBaseASPMVCnowy2\CalendarWithBaseASPMVCnowy1\CalendarWithBaseASPMVCnowy\CalendarWithBaseASPMVC\CalendarWithBaseASPMVC\bin\WebGrease.dll
+H:\NTR\CalendarWithBaseASPMVCnowy2\CalendarWithBaseASPMVCnowy1\CalendarWithBaseASPMVCnowy\CalendarWithBaseASPMVC\CalendarWithBaseASPMVC\bin\System.Web.Helpers.xml
+H:\NTR\CalendarWithBaseASPMVCnowy2\CalendarWithBaseASPMVCnowy1\CalendarWithBaseASPMVCnowy\CalendarWithBaseASPMVC\CalendarWithBaseASPMVC\bin\System.Web.Mvc.xml
+H:\NTR\CalendarWithBaseASPMVCnowy2\CalendarWithBaseASPMVCnowy1\CalendarWithBaseASPMVCnowy\CalendarWithBaseASPMVC\CalendarWithBaseASPMVC\bin\System.Web.Optimization.xml
+H:\NTR\CalendarWithBaseASPMVCnowy2\CalendarWithBaseASPMVCnowy1\CalendarWithBaseASPMVCnowy\CalendarWithBaseASPMVC\CalendarWithBaseASPMVC\bin\System.Web.Razor.xml
+H:\NTR\CalendarWithBaseASPMVCnowy2\CalendarWithBaseASPMVCnowy1\CalendarWithBaseASPMVCnowy\CalendarWithBaseASPMVC\CalendarWithBaseASPMVC\bin\System.Web.WebPages.xml
+H:\NTR\CalendarWithBaseASPMVCnowy2\CalendarWithBaseASPMVCnowy1\CalendarWithBaseASPMVCnowy\CalendarWithBaseASPMVC\CalendarWithBaseASPMVC\bin\System.Web.WebPages.Deployment.xml
+H:\NTR\CalendarWithBaseASPMVCnowy2\CalendarWithBaseASPMVCnowy1\CalendarWithBaseASPMVCnowy\CalendarWithBaseASPMVC\CalendarWithBaseASPMVC\bin\System.Web.WebPages.Razor.xml
+H:\NTR\CalendarWithBaseASPMVCnowy2\CalendarWithBaseASPMVCnowy1\CalendarWithBaseASPMVCnowy\CalendarWithBaseASPMVC\CalendarWithBaseASPMVC\bin\Newtonsoft.Json.xml
+H:\NTR\CalendarWithBaseASPMVCnowy2\CalendarWithBaseASPMVCnowy1\CalendarWithBaseASPMVCnowy\CalendarWithBaseASPMVC\CalendarWithBaseASPMVC\bin\Antlr3.Runtime.pdb
+H:\NTR\CalendarWithBaseASPMVCnowy2\CalendarWithBaseASPMVCnowy1\CalendarWithBaseASPMVCnowy\CalendarWithBaseASPMVC\CalendarWithBaseASPMVC\bin\EntityFramework.xml
+H:\NTR\CalendarWithBaseASPMVCnowy2\CalendarWithBaseASPMVCnowy1\CalendarWithBaseASPMVCnowy\CalendarWithBaseASPMVC\CalendarWithBaseASPMVC\bin\EntityFramework.SqlServer.xml
+H:\NTR\CalendarWithBaseASPMVCnowy2\CalendarWithBaseASPMVCnowy1\CalendarWithBaseASPMVCnowy\CalendarWithBaseASPMVC\CalendarWithBaseASPMVC\bin\Microsoft.AspNet.Identity.Core.xml
+H:\NTR\CalendarWithBaseASPMVCnowy2\CalendarWithBaseASPMVCnowy1\CalendarWithBaseASPMVCnowy\CalendarWithBaseASPMVC\CalendarWithBaseASPMVC\bin\Microsoft.AspNet.Identity.Owin.xml
+H:\NTR\CalendarWithBaseASPMVCnowy2\CalendarWithBaseASPMVCnowy1\CalendarWithBaseASPMVCnowy\CalendarWithBaseASPMVC\CalendarWithBaseASPMVC\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+H:\NTR\CalendarWithBaseASPMVCnowy2\CalendarWithBaseASPMVCnowy1\CalendarWithBaseASPMVCnowy\CalendarWithBaseASPMVC\CalendarWithBaseASPMVC\bin\Microsoft.Owin.xml
+H:\NTR\CalendarWithBaseASPMVCnowy2\CalendarWithBaseASPMVCnowy1\CalendarWithBaseASPMVCnowy\CalendarWithBaseASPMVC\CalendarWithBaseASPMVC\bin\Microsoft.Owin.Host.SystemWeb.xml
+H:\NTR\CalendarWithBaseASPMVCnowy2\CalendarWithBaseASPMVCnowy1\CalendarWithBaseASPMVCnowy\CalendarWithBaseASPMVC\CalendarWithBaseASPMVC\bin\Microsoft.Owin.Security.xml
+H:\NTR\CalendarWithBaseASPMVCnowy2\CalendarWithBaseASPMVCnowy1\CalendarWithBaseASPMVCnowy\CalendarWithBaseASPMVC\CalendarWithBaseASPMVC\bin\Microsoft.Owin.Security.Facebook.xml
+H:\NTR\CalendarWithBaseASPMVCnowy2\CalendarWithBaseASPMVCnowy1\CalendarWithBaseASPMVCnowy\CalendarWithBaseASPMVC\CalendarWithBaseASPMVC\bin\Microsoft.Owin.Security.Cookies.xml
+H:\NTR\CalendarWithBaseASPMVCnowy2\CalendarWithBaseASPMVCnowy1\CalendarWithBaseASPMVCnowy\CalendarWithBaseASPMVC\CalendarWithBaseASPMVC\bin\Microsoft.Owin.Security.OAuth.xml
+H:\NTR\CalendarWithBaseASPMVCnowy2\CalendarWithBaseASPMVCnowy1\CalendarWithBaseASPMVCnowy\CalendarWithBaseASPMVC\CalendarWithBaseASPMVC\bin\Microsoft.Owin.Security.Google.xml
+H:\NTR\CalendarWithBaseASPMVCnowy2\CalendarWithBaseASPMVCnowy1\CalendarWithBaseASPMVCnowy\CalendarWithBaseASPMVC\CalendarWithBaseASPMVC\bin\Microsoft.Owin.Security.Twitter.xml
+H:\NTR\CalendarWithBaseASPMVCnowy2\CalendarWithBaseASPMVCnowy1\CalendarWithBaseASPMVCnowy\CalendarWithBaseASPMVC\CalendarWithBaseASPMVC\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+H:\NTR\CalendarWithBaseASPMVCnowy2\CalendarWithBaseASPMVCnowy1\CalendarWithBaseASPMVCnowy\CalendarWithBaseASPMVC\CalendarWithBaseASPMVC\obj\Debug\CalendarWithBaseASPMVC.csprojResolveAssemblyReference.cache
+H:\NTR\CalendarWithBaseASPMVCnowy2\CalendarWithBaseASPMVCnowy1\CalendarWithBaseASPMVCnowy\CalendarWithBaseASPMVC\CalendarWithBaseASPMVC\obj\Debug\CalendarWithBaseASPMVC.dll
+H:\NTR\CalendarWithBaseASPMVCnowy2\CalendarWithBaseASPMVCnowy1\CalendarWithBaseASPMVCnowy\CalendarWithBaseASPMVC\CalendarWithBaseASPMVC\obj\Debug\CalendarWithBaseASPMVC.pdb
+C:\Users\Pawel\Desktop\Studia\projekty\CalendarWithBaseASPMVCnowy2\CalendarWithBaseASPMVCnowy1\CalendarWithBaseASPMVCnowy\CalendarWithBaseASPMVC\CalendarWithBaseASPMVC\bin\CalendarWithBaseASPMVC.dll.config
+C:\Users\Pawel\Desktop\Studia\projekty\CalendarWithBaseASPMVCnowy2\CalendarWithBaseASPMVCnowy1\CalendarWithBaseASPMVCnowy\CalendarWithBaseASPMVC\CalendarWithBaseASPMVC\bin\CalendarWithBaseASPMVC.dll
+C:\Users\Pawel\Desktop\Studia\projekty\CalendarWithBaseASPMVCnowy2\CalendarWithBaseASPMVCnowy1\CalendarWithBaseASPMVCnowy\CalendarWithBaseASPMVC\CalendarWithBaseASPMVC\bin\CalendarWithBaseASPMVC.pdb
+C:\Users\Pawel\Desktop\Studia\projekty\CalendarWithBaseASPMVCnowy2\CalendarWithBaseASPMVCnowy1\CalendarWithBaseASPMVCnowy\CalendarWithBaseASPMVC\CalendarWithBaseASPMVC\bin\Antlr3.Runtime.dll
+C:\Users\Pawel\Desktop\Studia\projekty\CalendarWithBaseASPMVCnowy2\CalendarWithBaseASPMVCnowy1\CalendarWithBaseASPMVCnowy\CalendarWithBaseASPMVC\CalendarWithBaseASPMVC\bin\EntityFramework.dll
+C:\Users\Pawel\Desktop\Studia\projekty\CalendarWithBaseASPMVCnowy2\CalendarWithBaseASPMVCnowy1\CalendarWithBaseASPMVCnowy\CalendarWithBaseASPMVC\CalendarWithBaseASPMVC\bin\EntityFramework.SqlServer.dll
+C:\Users\Pawel\Desktop\Studia\projekty\CalendarWithBaseASPMVCnowy2\CalendarWithBaseASPMVCnowy1\CalendarWithBaseASPMVCnowy\CalendarWithBaseASPMVC\CalendarWithBaseASPMVC\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Pawel\Desktop\Studia\projekty\CalendarWithBaseASPMVCnowy2\CalendarWithBaseASPMVCnowy1\CalendarWithBaseASPMVCnowy\CalendarWithBaseASPMVC\CalendarWithBaseASPMVC\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Pawel\Desktop\Studia\projekty\CalendarWithBaseASPMVCnowy2\CalendarWithBaseASPMVCnowy1\CalendarWithBaseASPMVCnowy\CalendarWithBaseASPMVC\CalendarWithBaseASPMVC\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Pawel\Desktop\Studia\projekty\CalendarWithBaseASPMVCnowy2\CalendarWithBaseASPMVCnowy1\CalendarWithBaseASPMVCnowy\CalendarWithBaseASPMVC\CalendarWithBaseASPMVC\bin\Microsoft.Owin.dll
+C:\Users\Pawel\Desktop\Studia\projekty\CalendarWithBaseASPMVCnowy2\CalendarWithBaseASPMVCnowy1\CalendarWithBaseASPMVCnowy\CalendarWithBaseASPMVC\CalendarWithBaseASPMVC\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Pawel\Desktop\Studia\projekty\CalendarWithBaseASPMVCnowy2\CalendarWithBaseASPMVCnowy1\CalendarWithBaseASPMVCnowy\CalendarWithBaseASPMVC\CalendarWithBaseASPMVC\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Pawel\Desktop\Studia\projekty\CalendarWithBaseASPMVCnowy2\CalendarWithBaseASPMVCnowy1\CalendarWithBaseASPMVCnowy\CalendarWithBaseASPMVC\CalendarWithBaseASPMVC\bin\Microsoft.Owin.Security.dll
+C:\Users\Pawel\Desktop\Studia\projekty\CalendarWithBaseASPMVCnowy2\CalendarWithBaseASPMVCnowy1\CalendarWithBaseASPMVCnowy\CalendarWithBaseASPMVC\CalendarWithBaseASPMVC\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Pawel\Desktop\Studia\projekty\CalendarWithBaseASPMVCnowy2\CalendarWithBaseASPMVCnowy1\CalendarWithBaseASPMVCnowy\CalendarWithBaseASPMVC\CalendarWithBaseASPMVC\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Pawel\Desktop\Studia\projekty\CalendarWithBaseASPMVCnowy2\CalendarWithBaseASPMVCnowy1\CalendarWithBaseASPMVCnowy\CalendarWithBaseASPMVC\CalendarWithBaseASPMVC\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Pawel\Desktop\Studia\projekty\CalendarWithBaseASPMVCnowy2\CalendarWithBaseASPMVCnowy1\CalendarWithBaseASPMVCnowy\CalendarWithBaseASPMVC\CalendarWithBaseASPMVC\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Pawel\Desktop\Studia\projekty\CalendarWithBaseASPMVCnowy2\CalendarWithBaseASPMVCnowy1\CalendarWithBaseASPMVCnowy\CalendarWithBaseASPMVC\CalendarWithBaseASPMVC\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Pawel\Desktop\Studia\projekty\CalendarWithBaseASPMVCnowy2\CalendarWithBaseASPMVCnowy1\CalendarWithBaseASPMVCnowy\CalendarWithBaseASPMVC\CalendarWithBaseASPMVC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Pawel\Desktop\Studia\projekty\CalendarWithBaseASPMVCnowy2\CalendarWithBaseASPMVCnowy1\CalendarWithBaseASPMVCnowy\CalendarWithBaseASPMVC\CalendarWithBaseASPMVC\bin\Newtonsoft.Json.dll
+C:\Users\Pawel\Desktop\Studia\projekty\CalendarWithBaseASPMVCnowy2\CalendarWithBaseASPMVCnowy1\CalendarWithBaseASPMVCnowy\CalendarWithBaseASPMVC\CalendarWithBaseASPMVC\bin\Owin.dll
+C:\Users\Pawel\Desktop\Studia\projekty\CalendarWithBaseASPMVCnowy2\CalendarWithBaseASPMVCnowy1\CalendarWithBaseASPMVCnowy\CalendarWithBaseASPMVC\CalendarWithBaseASPMVC\bin\System.Web.Helpers.dll
+C:\Users\Pawel\Desktop\Studia\projekty\CalendarWithBaseASPMVCnowy2\CalendarWithBaseASPMVCnowy1\CalendarWithBaseASPMVCnowy\CalendarWithBaseASPMVC\CalendarWithBaseASPMVC\bin\System.Web.Mvc.dll
+C:\Users\Pawel\Desktop\Studia\projekty\CalendarWithBaseASPMVCnowy2\CalendarWithBaseASPMVCnowy1\CalendarWithBaseASPMVCnowy\CalendarWithBaseASPMVC\CalendarWithBaseASPMVC\bin\System.Web.Optimization.dll
+C:\Users\Pawel\Desktop\Studia\projekty\CalendarWithBaseASPMVCnowy2\CalendarWithBaseASPMVCnowy1\CalendarWithBaseASPMVCnowy\CalendarWithBaseASPMVC\CalendarWithBaseASPMVC\bin\System.Web.Razor.dll
+C:\Users\Pawel\Desktop\Studia\projekty\CalendarWithBaseASPMVCnowy2\CalendarWithBaseASPMVCnowy1\CalendarWithBaseASPMVCnowy\CalendarWithBaseASPMVC\CalendarWithBaseASPMVC\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Pawel\Desktop\Studia\projekty\CalendarWithBaseASPMVCnowy2\CalendarWithBaseASPMVCnowy1\CalendarWithBaseASPMVCnowy\CalendarWithBaseASPMVC\CalendarWithBaseASPMVC\bin\System.Web.WebPages.dll
+C:\Users\Pawel\Desktop\Studia\projekty\CalendarWithBaseASPMVCnowy2\CalendarWithBaseASPMVCnowy1\CalendarWithBaseASPMVCnowy\CalendarWithBaseASPMVC\CalendarWithBaseASPMVC\bin\System.Web.WebPages.Razor.dll
+C:\Users\Pawel\Desktop\Studia\projekty\CalendarWithBaseASPMVCnowy2\CalendarWithBaseASPMVCnowy1\CalendarWithBaseASPMVCnowy\CalendarWithBaseASPMVC\CalendarWithBaseASPMVC\bin\WebGrease.dll
+C:\Users\Pawel\Desktop\Studia\projekty\CalendarWithBaseASPMVCnowy2\CalendarWithBaseASPMVCnowy1\CalendarWithBaseASPMVCnowy\CalendarWithBaseASPMVC\CalendarWithBaseASPMVC\bin\System.Web.Helpers.xml
+C:\Users\Pawel\Desktop\Studia\projekty\CalendarWithBaseASPMVCnowy2\CalendarWithBaseASPMVCnowy1\CalendarWithBaseASPMVCnowy\CalendarWithBaseASPMVC\CalendarWithBaseASPMVC\bin\System.Web.Mvc.xml
+C:\Users\Pawel\Desktop\Studia\projekty\CalendarWithBaseASPMVCnowy2\CalendarWithBaseASPMVCnowy1\CalendarWithBaseASPMVCnowy\CalendarWithBaseASPMVC\CalendarWithBaseASPMVC\bin\System.Web.Optimization.xml
+C:\Users\Pawel\Desktop\Studia\projekty\CalendarWithBaseASPMVCnowy2\CalendarWithBaseASPMVCnowy1\CalendarWithBaseASPMVCnowy\CalendarWithBaseASPMVC\CalendarWithBaseASPMVC\bin\System.Web.Razor.xml
+C:\Users\Pawel\Desktop\Studia\projekty\CalendarWithBaseASPMVCnowy2\CalendarWithBaseASPMVCnowy1\CalendarWithBaseASPMVCnowy\CalendarWithBaseASPMVC\CalendarWithBaseASPMVC\bin\System.Web.WebPages.xml
+C:\Users\Pawel\Desktop\Studia\projekty\CalendarWithBaseASPMVCnowy2\CalendarWithBaseASPMVCnowy1\CalendarWithBaseASPMVCnowy\CalendarWithBaseASPMVC\CalendarWithBaseASPMVC\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Pawel\Desktop\Studia\projekty\CalendarWithBaseASPMVCnowy2\CalendarWithBaseASPMVCnowy1\CalendarWithBaseASPMVCnowy\CalendarWithBaseASPMVC\CalendarWithBaseASPMVC\bin\System.Web.WebPages.Razor.xml
+C:\Users\Pawel\Desktop\Studia\projekty\CalendarWithBaseASPMVCnowy2\CalendarWithBaseASPMVCnowy1\CalendarWithBaseASPMVCnowy\CalendarWithBaseASPMVC\CalendarWithBaseASPMVC\bin\Newtonsoft.Json.xml
+C:\Users\Pawel\Desktop\Studia\projekty\CalendarWithBaseASPMVCnowy2\CalendarWithBaseASPMVCnowy1\CalendarWithBaseASPMVCnowy\CalendarWithBaseASPMVC\CalendarWithBaseASPMVC\bin\Antlr3.Runtime.pdb
+C:\Users\Pawel\Desktop\Studia\projekty\CalendarWithBaseASPMVCnowy2\CalendarWithBaseASPMVCnowy1\CalendarWithBaseASPMVCnowy\CalendarWithBaseASPMVC\CalendarWithBaseASPMVC\bin\EntityFramework.xml
+C:\Users\Pawel\Desktop\Studia\projekty\CalendarWithBaseASPMVCnowy2\CalendarWithBaseASPMVCnowy1\CalendarWithBaseASPMVCnowy\CalendarWithBaseASPMVC\CalendarWithBaseASPMVC\bin\EntityFramework.SqlServer.xml
+C:\Users\Pawel\Desktop\Studia\projekty\CalendarWithBaseASPMVCnowy2\CalendarWithBaseASPMVCnowy1\CalendarWithBaseASPMVCnowy\CalendarWithBaseASPMVC\CalendarWithBaseASPMVC\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Pawel\Desktop\Studia\projekty\CalendarWithBaseASPMVCnowy2\CalendarWithBaseASPMVCnowy1\CalendarWithBaseASPMVCnowy\CalendarWithBaseASPMVC\CalendarWithBaseASPMVC\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Pawel\Desktop\Studia\projekty\CalendarWithBaseASPMVCnowy2\CalendarWithBaseASPMVCnowy1\CalendarWithBaseASPMVCnowy\CalendarWithBaseASPMVC\CalendarWithBaseASPMVC\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Pawel\Desktop\Studia\projekty\CalendarWithBaseASPMVCnowy2\CalendarWithBaseASPMVCnowy1\CalendarWithBaseASPMVCnowy\CalendarWithBaseASPMVC\CalendarWithBaseASPMVC\bin\Microsoft.Owin.xml
+C:\Users\Pawel\Desktop\Studia\projekty\CalendarWithBaseASPMVCnowy2\CalendarWithBaseASPMVCnowy1\CalendarWithBaseASPMVCnowy\CalendarWithBaseASPMVC\CalendarWithBaseASPMVC\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Pawel\Desktop\Studia\projekty\CalendarWithBaseASPMVCnowy2\CalendarWithBaseASPMVCnowy1\CalendarWithBaseASPMVCnowy\CalendarWithBaseASPMVC\CalendarWithBaseASPMVC\bin\Microsoft.Owin.Security.xml
+C:\Users\Pawel\Desktop\Studia\projekty\CalendarWithBaseASPMVCnowy2\CalendarWithBaseASPMVCnowy1\CalendarWithBaseASPMVCnowy\CalendarWithBaseASPMVC\CalendarWithBaseASPMVC\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Pawel\Desktop\Studia\projekty\CalendarWithBaseASPMVCnowy2\CalendarWithBaseASPMVCnowy1\CalendarWithBaseASPMVCnowy\CalendarWithBaseASPMVC\CalendarWithBaseASPMVC\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Pawel\Desktop\Studia\projekty\CalendarWithBaseASPMVCnowy2\CalendarWithBaseASPMVCnowy1\CalendarWithBaseASPMVCnowy\CalendarWithBaseASPMVC\CalendarWithBaseASPMVC\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Pawel\Desktop\Studia\projekty\CalendarWithBaseASPMVCnowy2\CalendarWithBaseASPMVCnowy1\CalendarWithBaseASPMVCnowy\CalendarWithBaseASPMVC\CalendarWithBaseASPMVC\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Pawel\Desktop\Studia\projekty\CalendarWithBaseASPMVCnowy2\CalendarWithBaseASPMVCnowy1\CalendarWithBaseASPMVCnowy\CalendarWithBaseASPMVC\CalendarWithBaseASPMVC\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Pawel\Desktop\Studia\projekty\CalendarWithBaseASPMVCnowy2\CalendarWithBaseASPMVCnowy1\CalendarWithBaseASPMVCnowy\CalendarWithBaseASPMVC\CalendarWithBaseASPMVC\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Pawel\Desktop\Studia\projekty\CalendarWithBaseASPMVCnowy2\CalendarWithBaseASPMVCnowy1\CalendarWithBaseASPMVCnowy\CalendarWithBaseASPMVC\CalendarWithBaseASPMVC\obj\Debug\CalendarWithBaseASPMVC.csprojResolveAssemblyReference.cache
+C:\Users\Pawel\Desktop\Studia\projekty\CalendarWithBaseASPMVCnowy2\CalendarWithBaseASPMVCnowy1\CalendarWithBaseASPMVCnowy\CalendarWithBaseASPMVC\CalendarWithBaseASPMVC\obj\Debug\CalendarWithBaseASPMVC.dll
+C:\Users\Pawel\Desktop\Studia\projekty\CalendarWithBaseASPMVCnowy2\CalendarWithBaseASPMVCnowy1\CalendarWithBaseASPMVCnowy\CalendarWithBaseASPMVC\CalendarWithBaseASPMVC\obj\Debug\CalendarWithBaseASPMVC.pdb

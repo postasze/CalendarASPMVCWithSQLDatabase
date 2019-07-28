@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalendarWithBaseASPMVC", "CalendarWithBaseASPMVC\CalendarWithBaseASPMVC.csproj", "{AA812A40-4A6B-4068-A5EF-316AA6DC7A41}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalendarWithBaseASPMVC.Tests", "CalendarWithBaseASPMVC.Tests\CalendarWithBaseASPMVC.Tests.csproj", "{795816D5-718C-45AE-8DC4-45677F3FCFF6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AA812A40-4A6B-4068-A5EF-316AA6DC7A41}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA812A40-4A6B-4068-A5EF-316AA6DC7A41}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA812A40-4A6B-4068-A5EF-316AA6DC7A41}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA812A40-4A6B-4068-A5EF-316AA6DC7A41}.Release|Any CPU.Build.0 = Release|Any CPU
+		{795816D5-718C-45AE-8DC4-45677F3FCFF6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{795816D5-718C-45AE-8DC4-45677F3FCFF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{795816D5-718C-45AE-8DC4-45677F3FCFF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{795816D5-718C-45AE-8DC4-45677F3FCFF6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
